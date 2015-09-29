@@ -160,6 +160,9 @@ The server waits for requests from a client and tries to produce the proper resp
 
 HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
 
+HTTP is Hypertext Transfer Protocol, which is what devs use to request and send data through internet servers. You enter a website address in the URL, and then the browser will automatically generate the HTTP request and then send it to the server, pulling up the website attached to the URL.
+
+
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
 
@@ -272,6 +275,7 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
+It's a special user account, which is then used for system administration. The differnet names used, depending on the OS, could be admin, root, administrator, or supervisor.
 
 The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
 
@@ -280,6 +284,7 @@ The "Superuser" is a user of a computer system with special privileges needed to
 *Contributed by [Matt Davis](http://github.com/chiewieee)*
 
 #### What is Vim?
+It is a text edition for unix. it is actually a clone of the unix vi editor from Billy Joy. It is designed to be used from both a standalone app and form a command line interface as well. 
 
 Text editor that often causes debates with emacs lovers.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
